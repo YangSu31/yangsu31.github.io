@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Yang Su, LSE Student, Launches Site"
+title: "Yang Su, LSE Student, Built up Site"
 date: 2023-09-28
 ---
 
