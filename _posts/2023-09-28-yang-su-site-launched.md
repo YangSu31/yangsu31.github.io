@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Yang Su, LSE Student, Built up Site"
+title: "Yang Su, Built up Site"
 date: 2023-09-28
 ---
 
